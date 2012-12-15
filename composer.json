@@ -1,0 +1,8 @@
+{
+	"name": "hybridlogic/cron",
+	"description": "A crontab written in pure PHP, no shell access required",
+	"keywords": ["cron", "crontab", "events", "schedule"],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
