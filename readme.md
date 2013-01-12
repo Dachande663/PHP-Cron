@@ -1,9 +1,9 @@
 PHP Crontab
 ====================
 
-PHP Crontab is a crontab written in pure PHP. This is
-useful for when dealing with many content managed jobs and
-a regular crontab would be inefficient.
+PHP Crontab is a crontab written in pure PHP with support
+for parsing standard cron expressions. No shell access
+required.
 
 
 0.0 Table of Contents
