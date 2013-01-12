@@ -2,7 +2,7 @@
 	"name": "hybridlogic/cron",
 	"description": "PHP Crontab is a crontab written in pure PHP with support for parsing standard cron expressions. No shell access required.",
 	"keywords": ["cron", "crontab", "events", "worker", "queue", "schedule"],
-	"homepage": "https://github.com/Dachande663/PHP-DB-QueryBuilder",
+	"homepage": "https://github.com/Dachande663/PHP-Cron",
 	"license": "MIT",
 	"authors": [{
 		"name": "Luke Lanchester",
